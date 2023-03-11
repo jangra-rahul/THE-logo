@@ -5,7 +5,7 @@ import dis from "../assets/image/png/dis.png";
 function Footer() {
   return (
     <>
-      <section className="py-3 bg_footer">
+      <section className="py-3 py-xxl-5 bg_footer">
         <div className="container">
           <div className="d-md-flex align-items-center justify-content-between">
             <ul className="ps-0 d-flex mb-0 align-items-center justify-content-center gap-md-4 gap-1">

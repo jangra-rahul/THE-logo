@@ -21,7 +21,7 @@ function Tokemonics() {
                   <img className=" w_25" src={Mask} alt="Mask" />
                 </div>
                 <div className="col-9 text-center">
-                  <h2 className="fs_22 fw_400 mb-0 ff_sans color_blue">
+                  <h2 className="fs_22 fw_400 mb-0 ps-5 ff_sans color_blue">
                     THE NAME TOKEN (TNAT)
                   </h2>
                   <div className="d-flex justify-content-center">

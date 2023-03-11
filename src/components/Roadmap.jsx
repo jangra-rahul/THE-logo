@@ -15,7 +15,7 @@ function Roadmap() {
             data-aos-duration="2000"
             className="col-lg-6 col-md-7 position-relative pe-sm-3 pe-1 p-5 py-sm-3 py-3"
           >
-            <div className="d-flex">
+            <div className="d-flex ps-2 pe-2">
               <h2 className="fs_44 ff_space fw_700 clr_liner1 pe-2">01</h2>
               <h2 className="fs_44 ff_ubu fw_700 clr_liner">Lorem Ipsum</h2>
             </div>
@@ -33,7 +33,7 @@ function Roadmap() {
             data-aos-duration="2000"
             className="col-lg-6 col-md-7 p-5 py-sm-3 py-3 ps-sm-3 ps-1 ms-auto  position-relative text-end"
           >
-            <div className="d-flex  justify-content-end">
+            <div className="d-flex ps-2 pe-2  justify-content-end">
               <h2 className="fs_44 ff_ubu fw_700 clr_liner pe-2">
                 Lorem Ipsum
               </h2>
@@ -53,7 +53,7 @@ function Roadmap() {
             data-aos-duration="2000"
             className="col-lg-6 col-md-7 p-5 py-sm-3 py-3 pe-sm-3 pe-1 position-relative"
           >
-            <div className="d-flex  ">
+            <div className="d-flex ps-2 pe-2  ">
               <h2 className="fs_44 ff_space fw_700 clr_liner1 pe-2">03</h2>
               <h2 className="fs_44 ff_ubu fw_700 clr_liner">Lorem Ipsum</h2>
             </div>
@@ -71,7 +71,7 @@ function Roadmap() {
             data-aos-duration="2000"
             className="col-lg-6 col-md-7 p-5 py-sm-3 py-3 ps-sm-3 ps-1 ms-auto position-relative text-end"
           >
-            <div className="d-flex  justify-content-end">
+            <div className="d-flex ps-2 pe-2  justify-content-end">
               <h2 className="fs_44 ff_ubu fw_700 clr_liner  pe-2">
                 Lorem Ipsum
               </h2>
@@ -91,7 +91,7 @@ function Roadmap() {
             data-aos-duration="2000"
             className="col-lg-6 col-md-7 p-5 py-sm-3 py-3 pe-sm-3 pe-1 position-relative"
           >
-            <div className="d-flex ">
+            <div className="d-flex ps-2 pe-2 ">
               <h2 className="fs_44 ff_space fw_700 clr_liner1 pe-2">05</h2>
               <h2 className="fs_44 ff_ubu fw_700 clr_liner">Lorem Ipsum</h2>
             </div>
@@ -109,7 +109,7 @@ function Roadmap() {
             data-aos-duration="2000"
             className="col-lg-6 col-md-7 p-5 py-sm-3 py-3 ps-sm-3 ps-1 ms-auto position-relative text-end"
           >
-            <div className="d-flex  justify-content-end">
+            <div className="d-flex ps-2 pe-2  justify-content-end">
               <h2 className="fs_44 ff_ubu fw_700 clr_liner pe-2">
                 Lorem Ipsum
               </h2>
@@ -130,7 +130,7 @@ function Roadmap() {
             data-aos-duration="2000"
             className="col-lg-6 col-md-7 p-5 py-sm-3 py-3 pe-sm-3 pe-1 position-relative"
           >
-            <div className="d-flex  ">
+            <div className="d-flex ps-2 pe-2  ">
               <h2 className="fs_44 ff_space fw_700 clr_liner1 pe-2">07</h2>
               <h2 className="fs_44 ff_ubu fw_700 clr_liner">Lorem Ipsum</h2>
             </div>
@@ -149,7 +149,7 @@ function Roadmap() {
             data-aos-duration="2000"
             className="col-lg-6 col-md-7 p-5 py-sm-3 py-3 ps-sm-3 ps-1 ms-auto position-relative text-end"
           >
-            <div className="d-flex  justify-content-end">
+            <div className="d-flex ps-2 pe-2  justify-content-end">
               <h2 className="fs_44 ff_ubu fw_700 clr_liner pe-2">
                 Lorem Ipsum
               </h2>
@@ -170,7 +170,7 @@ function Roadmap() {
             data-aos-duration="2000"
             className="col-lg-6 col-md-7 p-5 py-sm-3 py-3 pe-sm-3 pe-1 position-relative"
           >
-            <div className="d-flex">
+            <div className="d-flex ps-2 pe-2">
               <h2 className="fs_44 ff_space fw_700 clr_liner1 pe-2">09</h2>
               <h2 className="fs_44 ff_ubu fw_700 clr_liner">Lorem Ipsum</h2>
             </div>
@@ -189,7 +189,7 @@ function Roadmap() {
             data-aos-duration="2000"
             className="col-lg-6 col-md-7 p-5 py-sm-3 py-3 ms-auto ps-sm-3 ps-1 position-relative text-end"
           >
-            <div className="d-flex  justify-content-end">
+            <div className="d-flex ps-2 pe-2  justify-content-end">
               <h2 className="fs_44 ff_ubu fw_700 clr_liner pe-2">
                 Lorem Ipsum
               </h2>

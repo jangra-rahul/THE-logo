@@ -564,10 +564,6 @@ section {
   right: -20px;
 }
 
-.w-10 {
-  width: 25%;
-}
-
 .faq_liner {
   background: linear-gradient(90deg, #22a2ff 0%, #e711dc 98.98%);
   -webkit-background-clip: text;
@@ -626,6 +622,55 @@ section {
   background: linear-gradient(90deg, #22a2ff 0%, #f72bee 98.98%);
 }
 
+div > h1 > span {
+  position: relative;
+  -webkit-animation: name 1.4s infinite ease-in-out both;
+  animation: name 1.4s infinite ease-in-out both;
+  background-color: white;
+  height: 100px;
+  width: 6px;
+  display: inline-block;
+}
+
+div > h1 > .span1 {
+  -webkit-animation-delay: -0.32s;
+  animation-delay: -032s;
+  position: relative;
+}
+div > h1 > .span2 {
+  -webkit-animation-delay: -0.16s;
+  animation-delay: -016s;
+  position: relative;
+}
+div > h1 > .span3 {
+  -webkit-animation-delay: -0.8s;
+  animation-delay: -08s;
+  position: relative;
+}
+@-webkit-keyframes name {
+  0%,
+  80%,
+  100% {
+    -webkit-transform: scale(0);
+  }
+  40% {
+    -webkit-transform: scale(1);
+  }
+}
+
+@keyframes name {
+  0%,
+  80%,
+  100% {
+    transform: scale(0);
+    -webkit-transform: scale(0);
+  }
+  40% {
+    transform: scale(1);
+    -webkit-transform: scale(1);
+  }
+}
+
 @media (max-width: 768px) {
   .show {
     position: absolute;
@@ -679,7 +724,7 @@ section {
     /* background: linear-gradient(90deg, #22a2ff 6.42%, #f72bee 92.64%) padding-box,
       linear-gradient(90deg, #22a2ff 6.42%, #f72bee 92.64%) border-box; */
     background-color: transparent;
-    padding: 5px 10px;
+    padding: 7px 10px;
     border: none;
     position: relative;
   }
@@ -698,7 +743,7 @@ section {
   }
   .but {
     background: linear-gradient(90deg, #22a2ff 6.42%, #f72bee 92.64%);
-    padding: 7px 8px;
+    padding: 8px 8px;
     border: none;
   }
   .card_box {
