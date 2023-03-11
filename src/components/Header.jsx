@@ -37,7 +37,7 @@ function Header() {
               >
                 <li className="">
                   <a
-                    className="text-decoration-none ff_ubn fs_32 fw_400 me-lg-5 me-4 before position-relative color_light_gray text_h   line"
+                    className="text-decoration-none ff_ubu fs_32 fw_400 me-lg-5 me-4 before position-relative color_light_gray text_h   line"
                     href="#Toke"
                   >
                     Tokemonics
@@ -45,7 +45,7 @@ function Header() {
                 </li>
                 <li className="">
                   <a
-                    className="text-decoration-none ff_ubn fs_32 fw_400 me-lg-5 me-4 before position-relative color_light_gray text_h  line"
+                    className="text-decoration-none ff_ubu fs_32 fw_400 me-lg-5 me-4 before position-relative color_light_gray text_h  line"
                     href="#popular"
                   >
                     Rarity
@@ -53,7 +53,7 @@ function Header() {
                 </li>
                 <li className="">
                   <a
-                    className="text-decoration-none ff_ubn fs_32 fw_400 me-lg-5 me-4 before position-relative color_light_gray text_h  line "
+                    className="text-decoration-none ff_ubu fs_32 fw_400 me-lg-5 me-4 before position-relative color_light_gray text_h  line "
                     href="#travelaes"
                   >
                     Team
@@ -61,7 +61,7 @@ function Header() {
                 </li>
                 <li className="">
                   <a
-                    className="text-decoration-none ff_ubn fs_32 fw_400 me-lg-5 me-4 before position-relative color_light_gray text_h  line "
+                    className="text-decoration-none ff_ubu fs_32 fw_400 me-lg-5 me-4 before position-relative color_light_gray text_h  line "
                     href="#FAQ"
                   >
                     FAQs
@@ -69,7 +69,7 @@ function Header() {
                 </li>
                 <li className="">
                   <a
-                    className="text-decoration-none ff_ubn mybox1 fs_32 fw_400 before color_light_gray  "
+                    className="text-decoration-none ff_ubu mybox1 fs_32 fw_400 before color_light_gray  "
                     href="#memories"
                   >
                     Roadmap
@@ -90,7 +90,7 @@ function Header() {
                 <li className="">
                   <a
                     onClick={() => setName(false)}
-                    className="text-decoration-none ff_ubn fs_32 fw_400 color_light_gray  position-relative line d-inline "
+                    className="text-decoration-none ff_ubu fs_32 fw_400 color_light_gray  position-relative line d-inline "
                     href="#"
                   >
                     Tokemonics
@@ -99,7 +99,7 @@ function Header() {
                 <li className="">
                   <a
                     onClick={() => setName(false)}
-                    className="text-decoration-none ff_ubn fs_32 fw_400 color_light_gray  position-relative line d-inline "
+                    className="text-decoration-none ff_ubu fs_32 fw_400 color_light_gray  position-relative line d-inline "
                     href="#"
                   >
                     Rarity
@@ -108,7 +108,7 @@ function Header() {
                 <li className="">
                   <a
                     onClick={() => setName(false)}
-                    className="text-decoration-none ff_ubn fs_32 fw_400 color_light_gray  position-relative line d-inline"
+                    className="text-decoration-none ff_ubu fs_32 fw_400 color_light_gray  position-relative line d-inline"
                     href="#"
                   >
                     Team
@@ -117,7 +117,7 @@ function Header() {
                 <li className="">
                   <a
                     onClick={() => setName(false)}
-                    className="text-decoration-none ff_ubn fs_32 fw_400 color_light_gray  position-relative line d-inline "
+                    className="text-decoration-none ff_ubu fs_32 fw_400 color_light_gray  position-relative line d-inline "
                     href="#"
                   >
                     FAQs
@@ -126,7 +126,7 @@ function Header() {
                 <li className="">
                   <a
                     onClick={() => setName(false)}
-                    className="text-decoration-none mybox1 ff_ubn fs_32 fw_400 color_light_gray  position-relative line d-inline "
+                    className="text-decoration-none mybox1 ff_ubu fs_32 fw_400 color_light_gray  position-relative line d-inline "
                     href="#"
                   >
                     Roadmap
@@ -159,14 +159,14 @@ function Header() {
                   do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </p>
 
-                <div className="d-flex justify-content-center justify-content-md-start align-items-center mt-5">
-                  <button className="d-flex align-items-center but">
+                <div className="d-sm-flex justify-content-center justify-content-md-start align-items-center mt-5">
+                  <button className="d-flex max_265 gap-3 mx-auto mx-sm-0 justify-content-center align-items-center but">
                     <img src={twe} alt="twe" />
                     <p className="fs_32 ps-2 fw_500 ff_code text-white mb-0">
                       Twitter
                     </p>
                   </button>
-                  <button className="d-flex ms-sm-5 ms-3 align-items-center but1">
+                  <button className="d-flex max_265 gap-3 mt-3 mt-sm-0 mx-auto mx-sm-0 justify-content-center ms-sm-5 ms-sm-3 align-items-center but1">
                     <img src={vector} alt="vector" />
                     <p className="fs_32 ps-3 fw_500 ff_code text-white mb-0">
                       Discord

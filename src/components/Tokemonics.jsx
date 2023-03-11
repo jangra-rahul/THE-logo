@@ -76,7 +76,9 @@ function Tokemonics() {
             >
               <div className="mybox">
                 <div className="d-flex justify-content-between align-items-center">
-                  <h2 className="fs_40 fw_900 ff_pro">NFT Holders </h2>
+                  <h2 className="fs_40 fw_900 ff_pro">
+                    NFT<br></br> Holders{" "}
+                  </h2>
                   <h3 className="fs_46 fw_900 ff_pro">70%</h3>
                 </div>
                 <p className="fs_22 fw_600 ff_pro color_light_gray">

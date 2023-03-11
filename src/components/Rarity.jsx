@@ -71,7 +71,10 @@ function Rarity() {
                 <h2 className="fs_28 fw_700 ff_ubu text-white mt-3 mb-3">
                   Random Dude
                 </h2>
-                <button className="bg-button fs_22 fw_900 ff_pro">17%</button>
+                <span className="position-relative">
+                  <div className="overlay"></div>
+                  <button className="bg-button fs_22 fw_900 ff_pro">17%</button>
+                </span>
               </div>
             </div>
             <div
@@ -84,7 +87,10 @@ function Rarity() {
                 <h2 className="fs_28 fw_700 ff_ubu text-white mt-3 mb-3">
                   Random Dude
                 </h2>
-                <button className="bg-button fs_22 fw_900 ff_pro">17%</button>
+                <span className="position-relative">
+                  <div className="overlay"></div>
+                  <button className="bg-button fs_22 fw_900 ff_pro">17%</button>
+                </span>
               </div>
             </div>
             <div
@@ -97,7 +103,10 @@ function Rarity() {
                 <h2 className="fs_28 fw_700 ff_ubu text-white mt-3 mb-3">
                   Random Dude
                 </h2>
-                <button className="bg-button fs_22 fw_900 ff_pro">17%</button>
+                <span className="position-relative">
+                  <div className="overlay"></div>
+                  <button className="bg-button fs_22 fw_900 ff_pro">17%</button>
+                </span>
               </div>
             </div>
             <div
@@ -110,59 +119,74 @@ function Rarity() {
                 <h2 className="fs_28 fw_700 ff_ubu text-white mt-3 mb-3">
                   Random Dude
                 </h2>
-                <button className="bg-button fs_22 fw_900 ff_pro">17%</button>
+                <span className="position-relative">
+                  <div className="overlay"></div>
+                  <button className="bg-button fs_22 fw_900 ff_pro">17%</button>
+                </span>
               </div>
             </div>
             <div
               data-aos="zoom-in-down"
               data-aos-duration="2000"
-              className="col-md-3 col-6  p-lg-5 p-3"
+              className="col-md-3 col-6  p-lg-5 py-lg-3 p-3"
             >
               <div className="card_box text-center">
                 <img className="w-75" src={image_1} alt="image_1" />
                 <h2 className="fs_28 fw_700 ff_ubu text-white mt-3 mb-3">
                   Random Dude
                 </h2>
-                <button className="bg-button fs_22 fw_900 ff_pro">17%</button>
+                <span className="position-relative">
+                  <div className="overlay"></div>
+                  <button className="bg-button fs_22 fw_900 ff_pro">17%</button>
+                </span>
               </div>
             </div>
             <div
               data-aos="zoom-in-down"
               data-aos-duration="2000"
-              className="col-md-3 col-6  p-lg-5 p-3"
+              className="col-md-3 col-6  p-lg-5 py-lg-3 p-3"
             >
               <div className="card_box text-center">
                 <img className="w-75" src={image_1} alt="image_1" />
                 <h2 className="fs_28 fw_700 ff_ubu text-white mt-3 mb-3">
                   Random Dude
                 </h2>
-                <button className="bg-button fs_22 fw_900 ff_pro">17%</button>
+                <span className="position-relative">
+                  <div className="overlay"></div>
+                  <button className="bg-button fs_22 fw_900 ff_pro">17%</button>
+                </span>
               </div>
             </div>
             <div
               data-aos="zoom-in-down"
               data-aos-duration="2000"
-              className="col-md-3 col-6  p-lg-5 p-3"
+              className="col-md-3 col-6  p-lg-5 py-lg-3 p-3"
             >
               <div className="card_box text-center">
                 <img className="w-75" src={image_1} alt="image_1" />
                 <h2 className="fs_28 fw_700 ff_ubu text-white mt-3 mb-3">
                   Random Dude
                 </h2>
-                <button className="bg-button fs_22 fw_900 ff_pro">17%</button>
+                <span className="position-relative">
+                  <div className="overlay"></div>
+                  <button className="bg-button fs_22 fw_900 ff_pro">17%</button>
+                </span>
               </div>
             </div>
             <div
               data-aos="zoom-in-down"
               data-aos-duration="2000"
-              className="col-md-3 col-6  p-lg-5 p-3"
+              className="col-md-3 col-6  p-lg-5 py-lg-3 p-3"
             >
               <div className="card_box text-center">
                 <img className="w-75" src={image_1} alt="image_1" />
                 <h2 className="fs_28 fw_700 ff_ubu text-white mt-3 mb-3">
                   Random Dude
                 </h2>
-                <button className="bg-button fs_22 fw_900 ff_pro">17%</button>
+                <span className="position-relative">
+                  <div className="overlay"></div>
+                  <button className="bg-button fs_22 fw_900 ff_pro">17%</button>
+                </span>
               </div>
             </div>
           </div>
